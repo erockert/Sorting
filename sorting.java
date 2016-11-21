@@ -40,7 +40,7 @@ public class sorting
         if (size > 1) 
         {
           //for when i equals 0, and i is less than size and i+1 
-            for (int i = 0; i < size; i++ )
+            for (int i = 0; i < size; i++ )   
             {
               //temp equals head
                 Node tempNode = head;
