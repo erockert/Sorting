@@ -30,7 +30,7 @@ public class sorting
             //print the head
             System.out.println(data);
             //head equals the next of head
-            tempNode = tempNode.next;
+            tempNode = tempNode.next;    
         }
     }
        //sort method
