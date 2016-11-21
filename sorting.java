@@ -23,7 +23,7 @@ public class sorting
          //setting the tempNode euqla to the head
         Node tempNode = head;
         //while the head doesnt equal null
-        while(tempNode != null) 
+        while(tempNode != null)    
         {
           //data equals the head value
             int data = tempNode.getData();
