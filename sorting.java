@@ -71,7 +71,7 @@ public class sorting
   {
        //calling the new class
     Node node = new Node(data);
-    //if the head equals null
+    //if the head equals null   
     if(head == null)
     {
       //set head to the node
