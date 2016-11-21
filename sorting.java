@@ -11,7 +11,7 @@ public class sorting
     //setting size equal to 0
     size = 0;
   }
-  //SortSize method
+  //SortSize method   
    public int SortSize() 
    {     
      //return size
