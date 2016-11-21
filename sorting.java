@@ -73,7 +73,7 @@ public class sorting
     Node node = new Node(data);
     //if the head equals null   
     if(head == null)
-    {
+    {  
       //set head to the node
       this.head = node;
     }
