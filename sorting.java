@@ -26,7 +26,7 @@ public class sorting
         while(tempNode != null)    
         {
           //data equals the head value
-            int data = tempNode.getData();     
+            int data = tempNode.getData();        
             //print the head     
             System.out.println(data);
             //head equals the next of head
